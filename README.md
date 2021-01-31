@@ -1,2 +1,2 @@
-# payground
+# playground
 Random beautiful playful stuff
